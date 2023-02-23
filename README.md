@@ -72,9 +72,9 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 
-##Demo
+## Demo
 
-*https://www.youtube.com/watch?v=RTNS9Wbztbc
+* https://www.youtube.com/watch?v=RTNS9Wbztbc
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/andy-nguyen-b5b356256/
